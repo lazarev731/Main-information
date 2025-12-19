@@ -84,6 +84,7 @@ Terminator (от лат. termino — ограничивать, завершат�
 
 Также создал усложненную блок-схему алгоритма и разместил его в Ginhub:
 
+<img width="1642" height="808" alt="image" src="https://github.com/user-attachments/assets/1725cc78-7b96-4a7c-a110-83d34e51ab57" />
 
 
 
